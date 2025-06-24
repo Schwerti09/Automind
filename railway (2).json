@@ -1,8 +1,0 @@
-{
-  "build": {
-    "command": "deno cache backend/main.ts"
-  },
-  "start": {
-    "command": "deno run --allow-all backend/main.ts"
-  }
-}
