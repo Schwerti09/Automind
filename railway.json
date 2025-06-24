@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {},
+    "command": "deno cache src/main.ts"
+  },
+  "start": {
+    "env": {},
+    "command": "deno run --allow-all src/main.ts"
+  }
+}
