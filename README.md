@@ -1,0 +1,2 @@
+# Automind
+Automind automatically
