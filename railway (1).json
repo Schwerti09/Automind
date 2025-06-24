@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {},
+    "command": "deno cache backend/main.ts"
+  },
+  "start": {
+    "env": {},
+    "command": "deno run --allow-all backend/main.ts"
+  }
+}
